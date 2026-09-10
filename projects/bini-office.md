@@ -3,8 +3,15 @@
 Readdy에서 **소복이네 캐릭터**와 **BINI 인물 캐릭터**를 하나의 오피스 공간에 배치해 구성한 웹사이트 콘셉트입니다. BINI 인물 캐릭터는 사용자를 모티브로 만든 캐릭터이며, 소복이와 함께 옐로우·화이트 중심의 아이소메트릭 오피스 안에서 캐릭터와 공간이 자연스럽게 연결되는 구성을 실험했습니다.
 
 <p align="center">
-  <img src="../assets/bini-office/overview-1.webp" width="44%" alt="BINI OFFICE 전체 화면 상단 왼쪽" /><img src="../assets/bini-office/overview-2.webp" width="44%" alt="BINI OFFICE 전체 화면 상단 오른쪽" /><br>
-  <img src="../assets/bini-office/overview-3.webp" width="44%" alt="BINI OFFICE 전체 화면 하단 왼쪽" /><img src="../assets/bini-office/overview-4.webp" width="44%" alt="BINI OFFICE 전체 화면 하단 오른쪽" />
+  <img src="../assets/bini-office/12.PNG" width="88%" alt="BINI OFFICE 이미지 1" />
+</p>
+
+<p align="center">
+  <img src="../assets/bini-office/13.PNG" width="88%" alt="BINI OFFICE 이미지 2" />
+</p>
+
+<p align="center">
+  <img src="../assets/bini-office/14.PNG" width="88%" alt="BINI OFFICE 이미지 3" />
 </p>
 
 ## 캐릭터와 공간 구성
