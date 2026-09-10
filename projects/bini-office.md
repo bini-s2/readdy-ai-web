@@ -13,16 +13,8 @@ Readdy에서 **소복이네 캐릭터**와 **BINI 인물 캐릭터**를 하나�
 - 캐릭터가 없는 사무실 배경을 기반으로 캐릭터와 UI 요소를 더하는 구조
 - 배경 이미지 입력과 소복이의 던지기·줍기 인터랙션 아이디어도 작업 과정에서 검토
 
-<p align="center">
-  <img src="../assets/bini-office/bini-office-character-pair.jpg" width="240" alt="BINI 인물 캐릭터와 소복이" />
-  &nbsp;&nbsp;
-  <img src="../assets/bini-office/bini-office-sobok.jpg" width="165" alt="소복이" />
-</p>
-
-<p align="center">
-  <img src="../assets/bini-office/bini-office-background.jpg" width="88%" alt="BINI OFFICE 사무실 배경" />
-</p>
-
 ## 기록 상태
 
-화면 구성과 캐릭터·공간 조합은 사용자가 제공한 원본 작업 이미지를 기준으로 확인했습니다. 최종 배포 URL과 실제 인터랙션 구현 범위는 현재 기록에서 확인되지 않아 완료 상태로 단정하지 않습니다.
+현재 GitHub 프로젝트 페이지에는 정상적으로 표시되는 전체 화면 이미지만 노출합니다. 일부 세부 캡처 자산은 원본 비율이 깨진 상태로 들어가 있어 페이지에서 제외했으며, 원본 이미지가 확보되면 다시 교체할 수 있습니다.
+
+화면 구성과 캐릭터·공간 조합은 사용자가 제공한 작업 이미지를 기준으로 기록했습니다. 최종 배포 URL과 실제 인터랙션 구현 범위는 현재 기록에서 확인되지 않아 완료 상태로 단정하지 않습니다.
