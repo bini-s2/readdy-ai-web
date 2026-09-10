@@ -1,15 +1,21 @@
 # Readdy AI Web
 
-AI Website Builder를 활용한 업종별 웹사이트 디자인 실험입니다.
+Readdy로 업종별 웹사이트를 만들고, 프롬프트와 생성 결과를 검토·수정하는 과정을 기록합니다.
 
-## Overview
+`AI-assisted Web Design` `Readdy` `Prompting`
 
-- **Focus**: AI-assisted Web Design
-- **Tool**: Readdy
-- **Process**: Prompting / 디자인 검토 및 수정
+## Work Logs
 
-## Project Archive
+- `2026.09.10` [업종 3종 구성·시안·프롬프트·콘텐츠 준비 기록](./logs/2026/09/2026-09-10-work-history.md)
 
-프로젝트의 제작 과정과 결과물을 정리 중입니다.
+## Project Scope
 
-[전체 디자인 기록 →](https://github.com/bini-s2/Design-log)
+| 사례 | 역할 |
+| --- | --- |
+| 뷰티살롱·에스테틱 | BINI 시안을 메인 사례로 고도화 |
+| 카페 | 분위기와 업종별 생성 예시 비교 |
+| 학원·온라인 강좌 | 업종별 생성 예시 비교 |
+
+2026-09-10에 이전 작업 대화를 정리했습니다. 방향 결정과 수정 요청을 기록했고, 최종 배포·콘텐츠 발행 여부는 미확인 상태로 구분했습니다.
+
+[작은 디자인 작업·공부 기록 →](https://github.com/bini-s2/Design-log)
